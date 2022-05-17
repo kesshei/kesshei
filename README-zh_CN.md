@@ -16,5 +16,5 @@
 ##  💕 捐款
 
 <div 对齐=“中心”>
-<img src="WeChatPay.jpg" width="256" alt="微信"><img src="AliPay.jpg" style="margin-left: 5px; margin-right: 5px;" width="256" alt="支付宝"><img src="QQPay.jpg" width="256" alt="QQpay">
+<img src="http://tupian.wanmeisys.com/WeChatPay.jpg" width="256" alt="微信"><img src="http://tupian.wanmeisys.com/AliPay.jpg" style="margin-left: 5px; margin-right: 5px;" width="256" alt="支付宝"><img src="http://tupian.wanmeisys.com/QQPay.jpg" width="256" alt="QQpay">
 </div>
