@@ -6,7 +6,7 @@ An engineer who loves technology, I want to change the world through technology,
 
 ### Main Technology Stack:
 
-![ dotnet-version ](https://img.shields.io/badge/.NET%206.0-blue) ![ Visual Studio 2019 ](https://img.shields.io/badge/Visual%20Studio%20-2019-blueviolet) [![ Github ](https://img.shields.io/badge/%20-github-%2324292e)](https://github.com/kesshei/kesshei) [![ Github stars ](https://img.shields.io/github/stars/kesshei/kesshei)](https://github.com/kesshei/kesshei/stargazers)
+![ dotnet-version ](https://img.shields.io/badge/.NET%208.0-blue) ![ Visual Studio 2022 ](https://img.shields.io/badge/Visual%20Studio%20-2022-blueviolet) [![ Github ](https://img.shields.io/badge/%20-github-%2324292e)](https://github.com/kesshei/kesshei) [![ Github stars ](https://img.shields.io/github/stars/kesshei/kesshei)](https://github.com/kesshei/kesshei/stargazers)
 
 </div>
 
